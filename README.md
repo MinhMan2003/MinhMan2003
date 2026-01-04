@@ -24,31 +24,14 @@
 
 ---
 
-## 🧊 Tech Stack (3D Icon Illusion)
+## 🧊 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Animated)
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MinhMan2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhMan2003&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhMan2003&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (MOTION)
-<p align="center">
-  <img src="https://github.com/MinhMan2003/MinhMan2003/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
