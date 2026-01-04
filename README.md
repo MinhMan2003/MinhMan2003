@@ -1,31 +1,40 @@
-<h1 align="center">👋 Hi, I'm Minh Man</h1>
-<p align="center">💻 Web Developer • UI/UX Enthusiast</p>
+<!-- 3D HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=220&section=header&text=Minh%20Man&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;UI%2FUX+Enthusiast;I+Love+Clean+Code"/>
+</h3>
+
+---
+
+## 🌐 Connect with me
 <p align="center">
   <a href="https://facebook.com/your-facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://tiktok.com/@your-tiktok">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🧊 Tech Stack (3D Icon Illusion)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Animated)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinhMan2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhMan2003&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MinhMan2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhMan2003&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -34,14 +43,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake (MOTION)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhMan2003&theme=tokyonight&no-frame=true"/>
+  <img src="https://github.com/MinhMan2003/MinhMan2003/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## ✍️ Quote
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MinhMan2003&theme=radical&no-frame=true"/>
+</p>
+
+---
+
+## 💬 Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer"/>
 </p>
