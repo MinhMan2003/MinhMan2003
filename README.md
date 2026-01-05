@@ -35,26 +35,6 @@
 
 ---
 
-<!-- ======= STATS ======= -->
-<h2 align="center">📊 SYSTEM STATUS</h2>
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MinhMan2003&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhMan2003&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<!-- ======= SNAKE ======= -->
-<h2 align="center">🐍 LIVE ACTIVITY</h2>
-<p align="center">
-  <img src="https://github.com/MinhMan2003/MinhMan2003/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 <!-- ======= TROPHIES ======= -->
 <h2 align="center">🏆 ACHIEVEMENTS</h2>
 <p align="center">
