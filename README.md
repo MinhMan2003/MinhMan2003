@@ -1,53 +1,82 @@
-<!-- ================== MAX EFFECT HEADER ================== -->
+<!-- ================== CYBER HEADER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,25:7F00FF,50:FF00FF,75:00FF9C,100:00F7FF&height=320&section=header&text=MINH%20MAN&fontSize=72&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ff,50:00f7ff,100:00ff9c&height=280&section=header&text=MINH%20MAN&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=400&color=00F7FF&center=true&vCenter=true&width=900&lines=CYBERPUNK+WEB+DEVELOPER;UI%2FUX+ARCHITECT;FULL+STACK+IN+PROGRESS;CODE+IS+ART;SYSTEM+OVERDRIVE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=CYBERPUNK+WEB+DEVELOPER;UI%2FUX+ARCHITECT;BUILDING+THE+FUTURE;CODE+IS+MY+WEAPON"/>
 </p>
 
-<!-- GLITCH / NOISE / ENERGY -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/glitch.svg" width="100%"/>
-</p>
-
----
-
-## 🌐 CONNECT — SOCIAL CORE
-<p align="center">
-  <img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&logo=facebook&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TikTok-FF00FF?style=for-the-badge&logo=tiktok&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MinhMan2003&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧊 TECH CORE — OVERDRIVE
+<!-- ================== SOCIAL ================== -->
+<h2 align="center">🌐 CONNECT</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,vscode&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=SYSTEM+STACK&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=radical&line1=HTML,CSS,JavaScript;PHP,MySQL&line2=Figma,UI%2FUX;Git,GitHub&line3=VSCode,Workflow,Discipline"/>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&logo=facebook&logoColor=black"/>
+  </a>
+  <a href="https://tiktok.com/">
+    <img src="https://img.shields.io/badge/TikTok-FF00FF?style=for-the-badge&logo=tiktok&logoColor=black"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENT MATRIX
+<!-- ================== TECH STACK ================== -->
+<h2 align="center">🧊 TECH STACK</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=POWER+STACK&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=tokyonight&line1=HTML5,html,ff5722;CSS3,css,2196f3;JavaScript,js,f7df1e&line2=PHP,php,8892bf;MySQL,mysql,00758f&line3=Figma,figma,f24e1e"/>
+</p>
+
+---
+
+<!-- ================== STATS ================== -->
+<h2 align="center">📊 SYSTEM STATS</h2>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MinhMan2003&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhMan2003&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhMan2003&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================== MOTION ================== -->
+<h2 align="center">🐍 LIVE CONTRIBUTION MAP</h2>
+<p align="center">
+  <img src="https://github.com/MinhMan2003/MinhMan2003/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- ================== TROPHIES ================== -->
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MinhMan2003&theme=matrix&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-## 💬 QUOTE — SIGNAL
+<!-- ================== QUOTE ================== -->
+<h2 align="center">💬 SYSTEM MESSAGE</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-<!-- ================== MAX EFFECT FOOTER ================== -->
+<!-- ================== FOOTER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,25:FF00FF,50:7F00FF,75:00FF9C,100:00F7FF&height=180&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9c,50:00f7ff,100:ff00ff&height=160&section=footer&animation=twinkling"/>
 </p>
